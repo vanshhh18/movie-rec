@@ -1,9 +1,10 @@
+pip>=24.0
 fastapi==0.115.0
 uvicorn==0.32.0
 python-dotenv==1.2.1
 httpx==0.28.1
 pandas==2.3.0
 numpy
-scipy==1.14.1
+scipy
 scikit-learn==1.6.0
 streamlit==1.40.0
